@@ -1,1 +1,3 @@
-This is a default readme that is created by the htmlinit command
+Calculate pi using chain of springs
+
+Demo: https://codepen.io/MartianLord/full/jOyOXbV
